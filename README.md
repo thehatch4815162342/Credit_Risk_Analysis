@@ -13,23 +13,23 @@ A peer-to-peer lending services company would like to predict credit risk using 
 
 ## Results
 
-### RandomOverSampler
-![alt text](?raw=true)
+### RandomOverSampler Oversampling
+![alt text](https://github.com/thehatch4815162342/Credit_Risk_Analysis/blob/main/Images/RandomOverSampler.png?raw=true)
 
-### SMOTE
-![alt text](?raw=true)
+### SMOTE Oversampling
+![alt text](https://github.com/thehatch4815162342/Credit_Risk_Analysis/blob/main/Images/SMOTE.png?raw=true)
 
-### Undersampling
-![alt text](?raw=true)
+### ClusterCentroids Undersampling
+![alt text](https://github.com/thehatch4815162342/Credit_Risk_Analysis/blob/main/Images/Undersampling.png?raw=true)
 
 ### Combination Sampling
-![alt text](?raw=true)
+![alt text](https://github.com/thehatch4815162342/Credit_Risk_Analysis/blob/main/Images/Combo_Sampling.png?raw=true)
 
 ### BalancedRandomForestClassifier
-![alt text](?raw=true)
+![alt text](https://github.com/thehatch4815162342/Credit_Risk_Analysis/blob/main/Images/BalancedRandomForestClassifier.png?raw=true)
 
 ### EasyEnsembleClassifer
-![alt text](?raw=true)
+![alt text](https://github.com/thehatch4815162342/Credit_Risk_Analysis/blob/main/Images/EasyEnsembleClassifer.png?raw=true)
 
 
 ## Summary
