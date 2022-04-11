@@ -57,6 +57,6 @@ A peer-to-peer lending services company would like to predict credit risk using 
 
 
 ## Summary
-All models have weak precision scores, thus they will all flag low risk loans as high risk loans very often. The BalancedRandomForestClassifer has the best recall score, which in the case is very important. If a high risk loan is marked as low risk, then the company could lose a good amount of money. Due to precision scores being weak across the board, I can not in good faith recommend any of these models.
+All models have weak precision scores, thus they will all flag low risk loans as high risk loans very often. The EasyEnsembleClassifer has the best recall score, which in this case is very important. If a high risk loan is marked as low risk, then the company could lose a good amount of money. Accuracy is pretty low for every model except for EasyEnsembleClassifer as well. Due to precision scores being weak across the board, I can not in good faith recommend any of these models.
 
 
